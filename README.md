@@ -17,5 +17,5 @@ There are some basic rules governing the ride-allocation system. If the cab is a
 Taking long-term profit as the goal, you propose a method based on  **reinforcement learning** to optimize taxi driving strategies for  **profit maximization**. This optimization problem is formulated as a Markov Decision Process.
 
 In this project, you need to create the environment and an RL agent that learns to choose the best request. You need to train your agent using **vanilla Deep Q-learning (DQN)**
-![enter image description here](https://user-images.githubusercontent.com/53402847/110756368-1bd7af00-8270-11eb-9eab-e3a6fa6c7ef0.png)
+![enter image description here](https://user-images.githubusercontent.com/53402847/110757165-15960280-8271-11eb-9a09-611d5c4487df.png)
 
